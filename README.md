@@ -4,7 +4,7 @@
   </h1>
 
 ## Description
-Project built from lessons at Next.js documentation, showcasing core React concepts and introducing Next's Server and Client Components. <br>
+Project built from lessons at Next.js documentation, showcasing core React concepts and introducing Next's Server and Client Components.
 You can check it out at: https://nextjs.org/learn/react-foundations
 ## Technologies
 
