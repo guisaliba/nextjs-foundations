@@ -5,7 +5,7 @@
 
 ## Description
 Project built from lessons at Next.js documentation, showcasing core React concepts and introducing Next's Server and Client Components.
-This project was built for studies only. You can check it out at [Next.js docs](https://nextjs.org/learn/react-foundation)
+This project was built for studies only. You can check it out at [Next.js docs](https://nextjs.org/learn/react-foundation).
 ## Technologies
 
 This project was built using:
